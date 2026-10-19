@@ -1,0 +1,27 @@
+# Python Projects
+
+This repository contains small Python programs and applications I developed while learning Python. The projects helped me practice programming fundamentals through hands-on coding.
+
+## Topics Covered
+
+- Variables, conditions and loops
+- Functions and basic program logic
+- Calculations and conversions
+- Games and quizzes
+- Basic application development
+- GUI programming with PyQt5
+
+## Projects
+
+### Beginner Python Programs
+
+Contains small applications such as calculators, games, a banking system, a shopping cart and a digital clock.
+
+## Technologies
+
+- Python
+- PyQt5 (for the digital clock application)
+
+## About
+
+This repository documents my progress as I learn Python and apply programming concepts through practical exercises. Some programs were developed by following tutorials, which I use as a learning resource.
